@@ -5,21 +5,21 @@ This is an implementation of a social network API using Node.js, Express, and Mo
 ## Getting Started
 
 1. Clone the repository:
-
+```regexp
 git clone https://github.com/hlampton/the-social-network-api.git
-
+```
 2. Install the dependencies:
-
+```regexp
 npm install
-
+```
 3. Start the MongoDB server:
-
+```regexp
 mongod
-
+```
 4. Start the API server:
-
+```regexp
 npm start
-
+```
 5. Test the API using a tool such as Insomnia.
 
 ## API Routes
